@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Purring cats",
+  "name": "Welcome to the place where superhero cats are born. Their special power is cuteness.",
   "icons": [
     {
       "src": "favicon.ico",
